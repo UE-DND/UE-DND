@@ -9,8 +9,8 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UEDND)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wt.chen.uednd@gmail.com)
 
-<div style="position: relative;">
-    <img style="float: right; margin-left: 20px; width: 250px;" src="image.webp" alt="image.webp"/>
+<div style="float: right; margin-left: 20px;">
+    <img src="image.webp" alt="image" width="250"/>
 </div>
 
 ### Languages I use
