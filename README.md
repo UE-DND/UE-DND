@@ -12,7 +12,7 @@
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)    ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 
-<div style="position:relative; display: flex; flex-wrap: nowrap;"> 
+<div style="float: right; width: 40%; margin-left: 10px;"> 
     <img style="position:absolute; right: 0; top: 0; z-index: -1; width: 300px;" src="image.webp" alt="image.webp"/>
 </div> 
 
