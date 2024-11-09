@@ -1,9 +1,5 @@
 ### Hi, here's *UE-DND*👋:
 
-<div style="position: relative;">
-    <img style="float: right; margin-left: 20px; width: 300px;" src="image.webp" alt="image.webp"/>
-</div>
-
 - 🎓 2024 Chongqing University of Technology IoT major student
 
 - :mailbox: You can reach me with the links below  
@@ -12,6 +8,10 @@
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:UE_DND)](https://x.com/UE_DND)
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UEDND)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wt.chen.uednd@gmail.com)
+
+<div style="position: relative;">
+    <img style="float: right; margin-left: 20px; width: 250px;" src="image.webp" alt="image.webp"/>
+</div>
 
 ### Languages I use
 
@@ -23,3 +23,4 @@
 
 ### Visitors
 ![UE-DND](https://count.getloli.com/@UE-DND?name=UE-DND&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
