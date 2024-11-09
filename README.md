@@ -1,6 +1,6 @@
-<table style="border: none; width: 100%;">
-  <tr>
-    <td style="border: none;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<div>
 
 ### Hi, here's *UE-DND*👋:
 
@@ -23,10 +23,10 @@
 ### Visitors
 ![UE-DND](https://count.getloli.com/@UE-DND?name=UE-DND&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
-</td>
-    <td style="border: none; vertical-align: top;">
-        <img src="image.webp" alt="image" width="250"/>
-    </td>
-  </tr>
-</table>
+</div>
 
+<div>
+    <img src="image.webp" alt="image" width="250"/>
+</div>
+
+</div>
