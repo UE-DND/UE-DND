@@ -11,7 +11,7 @@
 
 <div style="position:relative; display: flex; flex-wrap: nowrap;"> 
     <img style='position:absolute; z-index:1;' src='/github-metrics.svg' alt="github-metrics.svg"/>
-    <img style='position:absolute; z-index:2;' src='/image.webp' width='300px' alt="00.webp"/>
+    <img style='position:absolute; z-index:2;' src='/image.webp' width='300px' alt="image.webp"/>
 </div> 
 
 
