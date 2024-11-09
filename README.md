@@ -12,8 +12,8 @@
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)    ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 
-<div style="position:relative; display: flex; flex-wrap: nowrap;"> 
-    <img style='position:absolute; z-index:2;' src='/image.webp' width='200px' alt="image.webp"/>
+<div style="position:relative; flex-shrink: 0;"> 
+    <img src="/image.webp" alt="Image" style="width: 200px; position: absolute; top: 0; right: 0;" />
 </div> 
 
 ### Overall Status
