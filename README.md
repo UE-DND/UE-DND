@@ -10,8 +10,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wt.chen.uednd@gmail.com)
 
 <div style="position:relative; display: flex; flex-wrap: nowrap;"> 
-    <img style='position:absolute; z-index:1;' src='/github-metrics.svg' alt="github-metrics.svg"/>
-    <img style='position:absolute; z-index:2;' src='/image.webp' width='300px' alt="image.webp"/>
+    <img style='position:absolute; z-index:2;' src='/image.webp' width='600px' alt="image.webp"/>
 </div> 
 
 
