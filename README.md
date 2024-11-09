@@ -8,9 +8,9 @@
 
 - :mailbox: You can reach me with the links below  
   
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:UE_DND)](https://x.com/UE_DND)
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UEDND)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wt.chen.uednd@gmail.com)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:UE_DND)](https://x.com/UE_DND)  
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UEDND)  
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wt.chen.uednd@gmail.com)  
 
 ## Languages I use
 
