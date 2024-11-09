@@ -1,16 +1,27 @@
-## Hi there 👋
+##### Hi, here's *UE-DND*👋:
 
-<!--
-**UE-DND/UE-DND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 2024 Chongqing University of Technology IoT major student
 
-Here are some ideas to get you started:
+- :mailbox: You can reach me with the links below  
+  
+  
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:UE_DND)](https://x.com/UE_DND)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UEDND)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wt.chen.uednd@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="position:relative; display: flex; flex-wrap: nowrap;"> 
+    <img style='position:absolute; z-index:1;' src='/github-metrics.svg' alt="github-metrics.svg"/>
+    <img style='position:absolute; z-index:2;' src='/image.webp' width='300px' alt="00.webp"/>
+</div> 
+
+
+##### Languages I use
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)    ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+
+### Overall Status
+
+[![UE-DND's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ue-dnd&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&show_owner=true)](https://github.com/UE-DND)
+
+### Visitors
+![UE-DND](https://count.getloli.com/@UE-DND?name=UE-DND&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
