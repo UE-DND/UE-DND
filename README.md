@@ -1,5 +1,4 @@
 ##### Hi, here's *UE-DND*👋:
-
 - 🎓 2024 Chongqing University of Technology IoT major student
 
 - :mailbox: You can reach me with the links below  
@@ -9,18 +8,17 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UEDND)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wt.chen.uednd@gmail.com)
 
-<div style="position:relative; display: flex; flex-direction: column;"> 
-    <img style="float: right; margin-left: 10px; width: 300px;" src="/image.webp" alt="image.webp" />
-    <div style="overflow: hidden;">
-</div>
-
 ##### Languages I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)    ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 
-### Overall Status
+<div style="position:relative; display: flex; flex-wrap: nowrap;"> 
+    <img style='position:absolute; z-index:2;' src='/image.webp' width='200px' alt="image.webp"/>
+</div> 
+
+#### Overall Status
 
 [![UE-DND's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ue-dnd&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&show_owner=true)](https://github.com/UE-DND)
 
-### Visitors
+#### Visitors
 ![UE-DND](https://count.getloli.com/@UE-DND?name=UE-DND&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
