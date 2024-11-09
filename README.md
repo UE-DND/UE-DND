@@ -1,17 +1,16 @@
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+
 ### Hi, here's *UE-DND*👋:
 
 - 🎓 2024 Chongqing University of Technology IoT major student
 
 - :mailbox: You can reach me with the links below  
   
-  
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:UE_DND)](https://x.com/UE_DND)
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UEDND)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wt.chen.uednd@gmail.com)
-
-<div style="float: right; margin-left: 20px;">
-    <img src="image.webp" alt="image" width="250"/>
-</div>
 
 ### Languages I use
 
@@ -23,4 +22,8 @@
 
 ### Visitors
 ![UE-DND](https://count.getloli.com/@UE-DND?name=UE-DND&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
-
+    <td style="border: none; vertical-align: top;">
+        <img src="image.webp" alt="image" width="550"/>
+    </td>
+  </tr>
+</table>
