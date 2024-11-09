@@ -1,20 +1,20 @@
-<table style="border: none;">
+<table style="border: none; width: 100%;">
   <tr>
-    <td>
+    <td style="border: none;">
 
 ### Hi, here's *UE-DND*👋:
 
 - 🎓 2024 Chongqing University of Technology IoT major student
+- 📬 You can reach me with the links below  
 
-- :mailbox: You can reach me with the links below  
-  
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:UE_DND)](https://x.com/UE_DND)
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UEDND)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wt.chen.uednd@gmail.com)
 
 ### Languages I use
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)    ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)    
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 
 ### Overall Status
 
@@ -25,7 +25,8 @@
 
 </td>
     <td style="border: none; vertical-align: top;">
-        <img src="image.webp" alt="image" width="650"/>
+        <img src="image.webp" alt="image" width="250"/>
     </td>
   </tr>
 </table>
+
