@@ -20,7 +20,7 @@
 
 [![UE-DND's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ue-dnd&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&show_owner=true)](https://github.com/UE-DND)
 
-## Visitors
+## Visits
 ![UE-DND](https://count.getloli.com/@UE-DND?name=UE-DND&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 </td>
