@@ -1,4 +1,9 @@
 ### Hi, here's *UE-DND*👋:
+
+<div style="position: relative;">
+    <img style="float: right; margin-left: 20px; width: 300px;" src="image.webp" alt="image.webp"/>
+</div>
+
 - 🎓 2024 Chongqing University of Technology IoT major student
 
 - :mailbox: You can reach me with the links below  
@@ -11,10 +16,6 @@
 ### Languages I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)    ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-
-<div style="float: right; width: 40%; margin-left: 10px;"> 
-    <img style="position:absolute; right: 0; top: 0; z-index: -1; width: 300px;" src="image.webp" alt="image.webp"/>
-</div> 
 
 ### Overall Status
 
