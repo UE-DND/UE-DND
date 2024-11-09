@@ -25,7 +25,7 @@
 
 </td>
     <td style="border: none; vertical-align: top;">
-        <img src="image.webp" alt="image" width="650"/>
+        <img src="image.PNG" alt="image" width="700"/>
     </td>
   </tr>
 </table>
