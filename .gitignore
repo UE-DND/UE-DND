@@ -1,0 +1,92 @@
+# 忽略编译生成的文件和目录
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.pdb
+*.ilk
+*.manifest
+*.sbr
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.log
+*.tmp
+*.user
+*.opendb
+*.opensdf
+*.dbmdl
+*.VC.db
+*.VC.VC.opendb
+*.a
+*.lib
+
+# 忽略对象文件和库文件
+*.d
+*.gcda
+*.gcno
+
+# 忽略 CMake 相关文件
+CMakeLists.txt.user
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+
+# 忽略 Visual Studio 相关文件和目录
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.ncb
+*.aps
+*.clw
+*.opt
+*.plg
+*.DS_Store
+.vs/
+
+# 忽略 CLion 相关文件和目录
+.clangd/
+.project
+.cproject
+.launches
+.idea/
+*.iml
+*.ipr
+*.iws
+*.breakpoints
+*.dep
+*.deps
+
+# 忽略特定于开发环境的配置文件
+CppProperties.json
+
+# 忽略系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 忽略版本控制系统元数据
+.git/
+.gitattributes
+.gitmodules
+
+# 忽略构建目录（假设使用 build 或 out 目录）
+build/
+out/
+
+# 忽略平台特定的临时文件
+*.swp
+*~
+
+# 忽略 macOS 特定文件
+._*
+
+# 忽略 Windows 特定文件
+*.ntvs*
+npm-debug.log*
+yarn-error.log*
