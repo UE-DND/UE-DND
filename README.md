@@ -13,7 +13,6 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wt.chen.uednd@gmail.com) 
 </br></br>
 </br></br>
-</br></br>
 
 ## Overall Status
 
@@ -21,7 +20,7 @@
 
 </td>
     <td style="border: none; vertical-align: top;">
-        <img src="image.PNG" alt="image" width="600"/>
+        <img src="image.PNG" alt="image" width="500"/>
     </td>
   </tr>
 </table>
