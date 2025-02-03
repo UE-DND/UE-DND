@@ -12,10 +12,7 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UEDND) 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wt.chen.uednd@gmail.com) 
 </br></br> 
-## Languages I use
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)    ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-</br></br> 
 ## Overall Status
 
 [![UE-DND's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ue-dnd&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&show_owner=true)](https://github.com/UE-DND)
