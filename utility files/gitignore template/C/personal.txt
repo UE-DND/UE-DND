@@ -30,42 +30,9 @@
 *.gcda
 *.gcno
 
-# 忽略 CMake 相关文件
-CMakeLists.txt.user
-CMakeFiles/
-cmake_install.cmake
-CMakeCache.txt
-
-# 忽略 Visual Studio 特定文件和目录
-*.vcxproj.filters
-*.sln
-*.suo
-*.ncb
-*.aps
-*.clw
-*.opt
-*.plg
-*.DS_Store
-.vs/
-
-# 忽略 CLion 特定文件和目录
-.clangd/
-.project
-.cproject
-.launches
-.idea/
-!**/.idea/codeStyles/
-!**/.idea/runConfigurations/
-!**/.idea/vcs.xml
-
 # 忽略系统生成的文件
 .DS_Store
 Thumbs.db
-
-# 忽略版本控制系统元数据
-.git/
-.gitattributes
-.gitmodules
 
 # 忽略构建目录（假设使用 build 或 out 目录）
 build/
