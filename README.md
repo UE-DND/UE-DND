@@ -14,15 +14,14 @@
 </br></br>
 </br></br>
 </br></br>
-</br></br>
-</br></br>
+
 ## Overall Status
 
 [![UE-DND's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ue-dnd&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&show_owner=true)](https://github.com/UE-DND)
 
 </td>
     <td style="border: none; vertical-align: top;">
-        <img src="image.PNG" alt="image" width="700"/>
+        <img src="image.PNG" alt="image" width="600"/>
     </td>
   </tr>
 </table>
